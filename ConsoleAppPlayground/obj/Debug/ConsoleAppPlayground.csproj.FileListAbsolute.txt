@@ -1,0 +1,11 @@
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\ConsoleAppPlayground.exe.config
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\ConsoleAppPlayground.exe
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\ConsoleAppPlayground.pdb
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\ConsoleAppPlayground.csprojResolveAssemblyReference.cache
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\ConsoleAppPlayground.exe
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\obj\Debug\ConsoleAppPlayground.pdb
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\StructureMap.dll
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\StructureMap.Net4.dll
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\StructureMap.pdb
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\StructureMap.xml
+F:\Git\ConsoleAppPlayground\ConsoleAppPlayground\bin\Debug\StructureMap.Net4.pdb
